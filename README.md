@@ -1,7 +1,7 @@
 # EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resistor
 
-Roll no : 212221230070 
-Name : Nithishkumar P
+Roll no : 212221230070<br />
+Name : Nithishkumar P<br />
 Department : Artificial Intelligence and Data Science
 ## AIM: 
 To interface an FSR(force sensitive resistor) and scale the output voltage obtained to pressure applied 
