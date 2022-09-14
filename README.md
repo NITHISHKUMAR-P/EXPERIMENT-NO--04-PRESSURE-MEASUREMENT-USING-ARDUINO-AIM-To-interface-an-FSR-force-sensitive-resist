@@ -105,7 +105,7 @@ void loop()
 } 
  ```
 ### TABLE -02 standard deviation table 
-![]()
+![](table.PNG)
 
 ### Population Standard Deviation
 ```
